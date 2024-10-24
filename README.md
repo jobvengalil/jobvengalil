@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Premier League Match Predictor Project
 - 👯 I’m looking to collaborate on SWE projects and looking for SWE Internships/Coops
 - 📫 How to reach me:
-    - Email: jvenga9@icloud.com
+    - Email: jvenga9@icloud.com/vengalil.j@northeastern.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I recently picked up yoga!
